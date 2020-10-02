@@ -1,0 +1,25 @@
+
+?squid:S1148X"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+O
+squid:S106="9Replace this use of System.out or System.err by a logger.(ĞÛâï
+O
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(™Û¶
+ksquid:S5361-"HReplace this call to "replaceAll()" by a call to the "replace()" method.(‘ãÿÆûÿÿÿÿ8–Ù©ÀÎ.
+T
+squid:S106;"9Replace this use of System.out or System.err by a logger.(˜°Ø²şÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(™Û¶
+T
+squid:S106W"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+_squid:S2095!"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ìæ‹
+osquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨şŒ>
+hsquid:S2095""LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(§ƒê£ÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(õÁ¡úÿÿÿÿÿ
+T
+squid:S106:"9Replace this use of System.out or System.err by a logger.(›…µäûÿÿÿÿ
+T
+squid:S106P"9Replace this use of System.out or System.err by a logger.(ï­¤øÿÿÿÿ
+T
+squid:S106<"9Replace this use of System.out or System.err by a logger.(–Šê•üÿÿÿÿ
